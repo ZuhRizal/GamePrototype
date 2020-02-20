@@ -6,7 +6,7 @@ import random
 pygame.init()
 
 # Game screen
-screen = pygame.display.set_mode("")
+screen = pygame.display.set_mode((800, 600))
 
 # Judul dan logo
 pygame.display.set_caption("Space Invaders")
